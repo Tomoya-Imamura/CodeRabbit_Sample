@@ -6,3 +6,4 @@ b=30
 if a > 5 :
     print( "%sは、5より大きい" % a)
     
+aaaa
