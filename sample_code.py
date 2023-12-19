@@ -7,3 +7,18 @@ if a > 5 :
     print( "%sは、5より大きい" % a)
     
 aaaa
+Do not comment on minor code style issues, missing comments/documentation and auto-generated code (e.g. l10n, freezed...).
+Do not comment on minor code style issues, missing comments/documentation and auto-generated code (e.g. l10n, freezed...).
+Do not comment on minor code style issues, missing comments/documentation and auto-generated code (e.g. l10n, freezed...).
+Do not comment on minor code style issues, missing comments/documentation and auto-generated code (e.g. l10n, freezed...).
+ads
+geg
+fdg
+reg
+gre
+gre
+gr
+rg
+re
+gr
+re
